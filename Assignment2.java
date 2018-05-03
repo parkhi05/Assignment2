@@ -1,6 +1,6 @@
 
 package ifelse1;
-import java.util.Scanner;
+import java.util.Scanner;                                      //Nested If/Else
 
 
 public class IfElse1 {
